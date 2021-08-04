@@ -1,0 +1,537 @@
+/* Medium Layout: 1280px. */
+@media only screen and (min-width: 992px) and (max-width: 1200px) { 
+  
+    
+}
+/* Tablet Layout: 768px. */
+@media only screen and (min-width: 768px) and (max-width: 991px) { 
+
+ .example_1 input[type="text"] {
+	width: 50% !important;
+}   
+    
+.example_1 .select {
+	width: 40% !important;
+}
+    
+.stellarnav > ul > li > a {
+	padding: 3px 6px !important;
+	font-size: 15px !important;
+
+}
+    
+ .stellarnav li a {
+	padding: 9px 10px !important;
+} 
+
+    
+/*    slider*/
+.slider-title {
+	font-size: 40px !important;
+}
+    
+.discount {
+	right: -77% !important;
+
+}
+    
+    
+    
+    
+.themesbazar_productsOne_content {
+	column-count: 3 !important;
+	
+}
+
+  .porducts-sec-one #pills-tab li a {
+	padding: 50px 27px !important;
+
+}
+    
+    
+.products-content {
+	column-count: 3 !important;
+}
+    
+/*ff*/
+.themesbazar_dalivery_content {
+	padding: 15px 0px !important;
+}
+    
+.themesbazar_dalivery_wrpp {
+	text-align: center !important;
+}  
+    
+.dalivery_icon {
+	float: inherit !important;
+	text-align: center !important;
+}    
+    
+.dalivery_title {
+	font-size: 15px !important;
+}
+
+.contact-itm {
+	margin-left: 16px !important;
+}
+    
+.design-developed {
+	text-align: center !important;
+}   
+    
+.design-developed a {
+	font-size: 16px !important;
+  }
+    
+/*============ Archive page =====================*/
+.themesbazar_archive_page_content {
+	column-gap: 10px !important;
+}
+ 
+.themesbazar_archive_page_wrpp {
+	padding: 5px !important;
+}
+    
+.archive_products_title a {
+	font-size: 17px !important;
+} 
+
+.archive_price {
+	font-size: 15px !important;
+}
+    
+.position {
+	margin-right: 0 !important;
+}
+    
+.p-icons {
+	margin-right: 0 !important;
+	margin-left: 20px !important;
+}
+    
+    
+}
+
+/* Mobile Layout: 320px. */
+@media only screen and (max-width: 767px) { 
+    
+     /*============ Category css start==============*/
+    
+.logo {
+	display: none !important;
+}
+
+.themesBazar_top_header {
+	text-align: center !important;
+}
+    
+.login {
+	margin-top: -21px !important;
+}
+    
+.themesbazar-header {
+	margin-bottom: 0 !important;
+	margin-top: 0 !important;
+}
+    
+.example_1 input[type="text"] {
+	font-size: 13px !important;
+	width: 46% !important;
+	padding-left: 7px !important;
+}
+    
+.example_1 .select {
+	font-size: 13px !important;
+	padding-left: 3px !important;
+	width: 44% !important;
+}
+    
+.example_1 .select option {
+	font-size: 13px !important;
+}
+    
+.e-icon {
+	display: none !important;
+}
+    
+.example_1 {
+	margin-bottom: 15px !important;
+}
+    
+     /*============ Category css End==============*/
+    
+.mainnav ul li a:nth-child(1) {
+	width: 54% !important;
+	font-size: 13px !important;
+	background: #51aa1b !important;
+}  
+    
+.hasDD {
+	background: transparent !important;
+}
+    
+#menu-container {
+	display: none !important;
+}
+
+.mobil-logo {
+	display: inline !important;
+}
+    
+    
+ /*============ Menu css start==============*/
+.stellarnav.mobile {
+	text-align: right;
+}
+    
+.menu-section {
+	padding: 0 !important;
+}
+    
+.stellarnav.mobile {
+	position: absolute !important;
+}
+	
+.mobil-logo {
+	display: inline !important;
+	position: absolute;
+	left: 8px !important;
+	top: 20px !important;
+	width: 73% !important;
+	z-index: 9999;
+}
+
+
+
+    
+.stellarnav.dark {
+	margin-left: -15px !important;
+	padding: 6px !important;
+}
+  
+.stellarnav.dark .menu-toggle span.bars span {
+	background: #514949;
+}
+
+ .stellarnav.mobile li a {
+	color: #fff !important;
+} 
+    
+.stellarnav.mobile.dark ul {
+	background: rgb(81, 170, 27) !important;
+}
+    
+.stellarnav.dark li a:hover {
+	color: #fff !important;
+}
+    
+.stellarnav.mobile {
+	background: #51aa1b !important;
+}
+    
+.stellarnav.dark a {
+	color: #fff !important;
+	margin-top: -10px !important;
+}
+
+
+    
+.stellarnav .menu-toggle span.bars span {
+	width: 27px !important;
+	height: 3px !important;
+	margin: 0 0 5px !important;
+}
+
+.stellarnav.dark .menu-toggle span.bars span {
+	background: #fff;
+}
+
+.stellarnav .menu-toggle span.bars {
+	top: 9px !important;
+}
+    
+ /*============ Menu css End==============*/
+    
+    
+ /*============ Home slide css Start==============*/
+
+.themesBazar_slider {
+	margin-top: 60px !important;
+}
+    
+    
+.slider-btn ul li {
+	margin-right: 5px !important;
+	padding: 5px 14px !important;
+	font-size: 9px !important;
+}    
+  
+
+.slider_item {
+	left: 2% !important;
+	bottom: 17% !important;
+	width: 80% !important;
+}  
+    
+.slider-btn {
+	margin-top: 7px !important;
+}
+
+.slider_content {
+	font-size: 12px !important;
+}
+    
+    
+.slider-title {
+	font-size: 15px !important;
+	letter-spacing: 0px !important;
+}
+
+.discount {
+	right: -21% !important;
+	top: 0 !important;
+	width: 60px !important;
+	height: 60px !important;
+	line-height: 10px !important;
+	font-size: 11px !important;
+	font-weight: 300 !important;
+	padding-top: 15px !important;
+	border: 1px solid #dfdede !important;
+	
+}
+    
+ .home_slider .owl-dots button {
+	width: 7px !important;
+	height: 7px !important;
+	border: 1px solid rgba(255,255,255,0.9) !important;
+	margin-right: 4px !important;
+    padding: 4px !important;
+}   
+
+.home_slider .owl-dots {
+	bottom: 2px !important;
+}
+    
+.home_slider .owl-dots button.active {
+	transform: rotate(30deg) scale(1) !important;
+	
+}
+  
+.home_slider button.owl-prev {
+	width: 30px !important;
+	height: 30px !important;
+	font-size: 18px !important;
+	line-height: 33px !important;
+
+}  
+.home_slider button.owl-next {
+	width: 30px !important;
+	height: 30px !important;
+	font-size: 18px !important;
+	line-height: 33px !important;
+
+}
+    
+ /*============ Home slide css End==============*/
+    
+    
+    
+ /*============ porducts-sction-one css start==============*/
+.porducts-sec-one #pills-tab li a {
+	font-size: 13px !important;
+	font-weight: 400;
+	padding: 7px 21px !important;
+}
+    
+.porducts-sec-one .nav-pills .nav-link.active .tab-title::before {
+	left: 42% !important;
+	bottom: -13px !important;
+	height: 14px !important;
+	width: 14px !important;
+}
+    
+.themesbazar_productsOne_content {
+	column-count: 2 !important;
+}
+  
+
+.themesbazar_productsOne_wrpp {
+	margin-bottom: 20px !important;
+	border-bottom: 1px solid #ddd !important;
+	padding-bottom: 10px !important;
+}
+    
+
+ /*============ porducts-sction-one css End==============*/
+    
+    
+ /*============ themesbazar_dalivery_content css Start==============*/
+    .themesbazar_dalivery_content {
+	column-count: 1 !important;
+
+}
+    
+.themesbazar_dalivery_wrpp {
+	border-right: transparent !important;
+	margin-bottom: 16px !important;
+}
+    
+ /*============ themesbazar_dalivery_content css End==============*/
+    
+    
+ /*============ themesBazar_product section two css start==============*/
+
+ .products-category::after {
+	right: 82px !important;
+	bottom: 13px !important;
+}  
+
+.products-category::before {
+	left: 82px !important;
+	bottom: 13px !important;
+}
+
+.product-cat ul li {
+	padding: 8px 0 !important;
+}
+    
+.products-fashion {
+	margin-bottom: 27px !important;
+}
+    
+.products-content {
+	column-count: 2 !important;
+	
+}
+    
+ /*============ themesBazar_product section two css End==============*/
+    
+.arrival-list .owl-dots {
+	left: 31% !important;
+	bottom: -26px !important;
+}
+ 
+.themesbazar_blog_content {
+	column-count: 2 !important;
+    column-gap: 10px !important;
+}
+ 
+.blog_title a {
+	font-size: 14px !important;
+}
+
+.themesbazar_blog_wrpp {
+	margin-bottom: 10px !important;
+}
+   
+
+.blog_date {
+	font-size: 12px !important;
+}
+    
+    
+ .themesbazar_videolist .owl-dots {
+	left: 31% !important;
+	bottom: -15px !important;
+}  
+
+/*  themesbazar footer  */
+.footer_menu_title {
+	font-size: 15px !important;
+	margin-bottom: 13px !important;
+}
+    
+  .themesbazar-footer-section .col-lg-5 {
+	padding: 15px !important;
+	margin: 15px !important;
+}
+
+.contact-itm {
+	margin-bottom: 30px !important;
+	margin-left: 30px !important;
+}
+
+.copy-right {
+	text-align: center !important;
+}
+    
+.design-developed {
+	text-align: center !important;
+}
+
+.design-developed a {
+	font-size: 15px !important;
+
+}
+    
+    
+/*=========== Archive page =============*/
+.archive-cat {
+	margin-bottom: 10px !important;
+}
+    
+.position {
+    margin-right: 0 !important;
+}
+    
+.p-icons {
+	margin-right: 0 !important;
+	margin-left: 11px !important;
+}
+    
+.themesbazar_archive_page_content {
+	column-count: 2 !important;
+	column-gap: 8px !important;
+}
+    
+.themesbazar_archive_page_wrpp {
+	padding: 0 !important;
+
+}
+    
+.archive_products_title a {
+	font-size: 16px !important;
+	
+}
+.archive_price {
+	font-size: 14px !important;
+	margin-bottom: 13px !important;
+	
+}
+    
+    
+}
+
+/* Wide Mobile Layout: 480px. */
+@media only screen and (min-width: 480px) and (max-width: 767px) { 
+
+.slider-title {
+	font-size: 25px !important;
+}
+    
+.porducts-sec-one #pills-tab li a {
+	padding: 9px 16px !important;
+}
+    
+.products-category::before {
+	left: 147px !important;
+}
+
+.products-category::after {
+	right: 146px !important;
+}
+    
+.themesbazar_dalivery_content {
+	column-count: 2 !important;
+}
+    
+.themesbazar_dalivery_content {
+    padding: 15px 14px !important;
+	column-count: 2 !important;
+	column-gap: 6px2 !important;
+} 
+    
+
+    
+    
+}
